@@ -1,4 +1,4 @@
-# Angular-simple-data-binding
+# Angular-Data-Binding
 
 1. Simple Input and Output usage to communicate between components.
 2. To start the app:
